@@ -5,5 +5,10 @@
   "main": "normalizr-strategies.js",
   "scripts": {},
   "author": "Jason Kinnear",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/jgkinnear/normalizr-strategies",
+  "repository": {
+    "url": "git+https://github.com/jgkinnear/normalizr-strategies.git",
+    "type": "git"
+  }
 }
