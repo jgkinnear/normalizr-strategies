@@ -1,6 +1,6 @@
 {
   "name": "normalizr-strategies",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An easy way to chain normalizr strategies in a verbose way",
   "main": "normalizr-strategies.js",
   "scripts": {
