@@ -1,0 +1,9 @@
+{
+  "name": "normalizr-strategies",
+  "version": "0.0.1",
+  "description": "An easy way to chain normalizr strategies in a verbose way",
+  "main": "normalizr-strategies.js",
+  "scripts": {},
+  "author": "Jason Kinnear",
+  "license": "Apache-2.0"
+}
